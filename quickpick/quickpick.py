@@ -64,7 +64,7 @@ pyautogui.PAUSE = 0.05
 
 DEFAULTS = {
     "api_key": "",
-    "model": "claude-sonnet-5-5",
+    "model": "claude-opus-5-5",
     "hotkey": "f6",
     "box_width": 1400,
     "box_height": 900,
